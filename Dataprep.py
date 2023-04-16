@@ -6,10 +6,10 @@ import string
 import os
 
 # map met de originele tekstbestanden
-input_dir = "C:\Project 1 informatica\Trivauto\origineel"
+input_dir = "C:\\Project 1 informatica\\Trivauto\\origineel"
 
 # map waar de opgeschoonde bestanden moeten worden opgeslagen
-output_dir = "C:\Project 1 informatica\Trivauto\prepped"
+output_dir = "C:\\Project 1 informatica\\Trivauto\\prepped"
 
 def preprocess_text(text):
 
