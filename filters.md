@@ -1,4 +1,7 @@
 # Hier zullen filters komen
 
-* Jaar
-* 
+* merk
+* prijs
+* kilometerstand
+* bouwjaar
+* brandstof
